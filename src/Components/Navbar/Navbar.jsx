@@ -2,9 +2,11 @@ import styles from './Navbar.module.css'
 
 const Navbar = () => {
     return (
-        <p>
-            Hello World!
-        </p>
+        <>
+            <p>
+                Hello World!
+            </p>
+        </>
     )
 }
 
