@@ -1,12 +1,9 @@
 :root {
     /* Colors */
-    --color-text: #fff
-    --color-primary:var(--color-text)
-    --color-secondary:var(--color-text)
-    --color-dark:var(--color-text)
-    --color-bg:var(--color-text)
+    --color-text: #000;
+    --color-primary:#5927E5;
+    --color-bg:#fff;
 
     /* Fonts */
-    --font-undefined: Ariel
-
+    --font-primary: 'Fira Mono';
 }
