@@ -1,0 +1,12 @@
+:root {
+    /* Colors */
+    --color-text: #fff
+    --color-primary:var(--color-text)
+    --color-secondary:var(--color-text)
+    --color-dark:var(--color-text)
+    --color-bg:var(--color-text)
+
+    /* Fonts */
+    --font-undefined: Ariel
+
+}
